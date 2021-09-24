@@ -1,0 +1,3 @@
+# To find the all pair of numbers whose sum is equal to a given number : Ex n = 9 , pair [6,3] [9,0] [1,8] ...
+
+numArray = [2, 5, 8, 6, 1, 7, 4, 4]
