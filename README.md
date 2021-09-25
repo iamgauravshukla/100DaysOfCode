@@ -1,9 +1,8 @@
 ## *Hey Folks!🙋‍♂️*
 Hope you all are doing well! <br>
-I'm Gaurav Shukla and Undergraduate Computer Science Engineering Student.<br>
-I started my 100DaysOfCode today to enjoy the thrill of consistency.
-Here are the details of stuffs that I am during entire journey.<br>
-I will update the **Readme** daily at 11:59pm.<br>
+I'm Gaurav Shukla an Undergraduate Computer Science Engineering Student.<br>
+I starting my 100DaysOfCode from 24-09-2021 to enjoy the thrill of consistency.
+Here are the details of stuffs that I am doing during the entire journey.<br>
 **100DaysOfCode Challenge Topics:👇**
 ```
                                ┌────────────────┐
@@ -35,5 +34,6 @@ I will update the **Readme** daily at 11:59pm.<br>
              │ Data Visualization │          │ Data Analysis│
              └────────────────────┘          └──────────────┘
 ```
+I will update the **Readme** daily at 11:59pm.<br>
 * Day-0: Started DSA with Python. Completed Array, Lists with some Interview Questions.
 * 
