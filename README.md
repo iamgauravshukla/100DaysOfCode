@@ -37,4 +37,5 @@ I will update the **Readme** daily at 11:59pm.<br>
 
 <br>
 * Day-0: Started DSA with Python. Completed Array, Lists with some Interview Questions.
-* 
+* Day-1: DSA--> Solved 5 Interview Questions on Array and Lists. 
+         Data Science --> Studied the concepts of NumPy
