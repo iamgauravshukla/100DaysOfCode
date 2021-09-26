@@ -1,0 +1,62 @@
+.messages{
+    display: flex;
+    align-items: center;
+    margin: 20px 10px;
+}
+
+.message-screen{
+   text-align: center;
+   margin: 1vh;
+}
+
+.message-text{
+    margin-left: 10px;
+    background-color: #5e5e5e;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 10px 10px 10px 0px;
+}
+
+.matched{
+    color: rgb(161, 161, 161);
+    margin-bottom: 20px;
+}
+
+.user-text{
+    background-color: #ec5e6f;
+    /* float: right; */
+    margin-left: auto;
+    padding: 10px 15px;
+    border-radius: 10px 10px 0px 10px;
+    color: #fff;
+
+}
+
+.new-message{
+    display: flex;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid rgb(230, 230, 230);
+}
+
+.chat-input{
+    flex: 1;
+    padding: 10px;
+    border: none;
+}
+
+.send-message{
+    border:none;
+    margin-right: 20px;
+    background-color: #fff;
+    color:#ec5e6f;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.user-messages{
+    display: flex;
+    align-items: center;
+    margin: 20px 10px;
+}
