@@ -38,4 +38,5 @@ I will update the **Readme** daily at 11:59pm.<br>
 * Day-0: Started DSA with Python. Completed Array, Lists with some Interview Questions.
 * Day-1: DSA--> Solved 5 Interview Questions on Array and Lists. <br>
          Data Science --> Studied the concepts of NumPy
+* Day-2: Project-1 Finished -> Tinder App Clone using React.Js.
 
