@@ -44,4 +44,6 @@ I will update the **Readme** on daily basis<br>
 * Day-4: Finished python Dictionary and its built-in operations and methods
 * Day-5: Finishes python Tuples.<br>
 	 Project-2 Started -> Video call website using webrtc and socket.io
+* Day-6: Continue working on Video Call project. <br>
+	 Started learning about Linked List in Python.
 
