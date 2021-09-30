@@ -41,4 +41,7 @@ I will update the **Readme** daily at 11:59pm.<br>
 * Day-2: Project-1 Finished -> Tinder App Clone using React.Js.
 * Day-3: Data Science --> Studied the concepts of Pandas. <br>
 	 DSA --> Studied about python Dictionaries
+* Day-4: Finished python Dictionary and its built-in operations and methods
+* Day-5: Finishes python Tuples.<br>
+	 Project-2 Started -> Video call website using webrtc and socket.io
 
