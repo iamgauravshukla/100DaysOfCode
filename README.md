@@ -34,7 +34,7 @@ Here are the details of stuffs that I am doing during the entire journey.<br>
              │ Data Visualization │          │ Data Analysis│
              └────────────────────┘          └──────────────┘
 ```
-I will update the **Readme** daily at 11:59pm.<br>
+I will update the **Readme** on daily basis<br>
 * Day-0: Started DSA with Python. Completed Array, Lists with some Interview Questions.
 * Day-1: DSA--> Solved 5 Interview Questions on Array and Lists. <br>
          Data Science --> Studied the concepts of NumPy
