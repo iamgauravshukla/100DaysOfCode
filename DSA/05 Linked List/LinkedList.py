@@ -2,5 +2,3 @@
 physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a
 collection of nodes which together represent a sequence.
 Real life Example: Train it has head and tails and nodes as compartment"""
-
-
