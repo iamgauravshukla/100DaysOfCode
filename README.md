@@ -48,4 +48,5 @@ I will update the **Readme** on daily basis<br>
 	 Started learning about Linked List in Python.
 * Day-7: Continued learning about Linked List.<br>
 	 Data Science --> Started learning SQL and DBMS.
+* Day-8: Finished Project-2 -> Video Call Website.
 

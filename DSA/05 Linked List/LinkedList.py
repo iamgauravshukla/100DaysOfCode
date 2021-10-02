@@ -2,3 +2,12 @@
 physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a
 collection of nodes which together represent a sequence.
 Real life Example: Train it has head and tails and nodes as compartment"""
+
+""" Types of Linked List
+-> Singly Linked List
+-> Circular Linked List
+-> Doubly Linked List
+-> Circular Doubly Linked List
+"""
+
+
