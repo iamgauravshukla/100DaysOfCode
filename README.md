@@ -49,4 +49,5 @@ I will update the **Readme** on daily basis<br>
 * Day-7: Continued learning about Linked List.<br>
 	 Data Science --> Started learning SQL and DBMS.
 * Day-8: Finished Project-2 -> Video Call Website.
+* Day-9: Started Project-3 -> Netflix Clone Using React and Node.js with JWT Auth.
 
