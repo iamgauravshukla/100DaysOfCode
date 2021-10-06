@@ -51,4 +51,5 @@ I will update the **Readme** on daily basis<br>
 * Day-8: Finished Project-2 -> Video Call Website.
 * Day-9: Started Project-3 -> Netflix Clone Using React and Node.js with JWT Auth.
 * Day-10: Solved Some Questions on HackerRank and continued with Project-3.
+* Day-11: Studied some concepts of SQL and Solved 2 Questions on HackerRank.
 
