@@ -54,4 +54,6 @@ I will update the **Readme** on daily basis<br>
 * Day-11: Studied some concepts of SQL and Solved 2 Questions on HackerRank.
 * Day-12: Studied about Seaborn and practiced some real world operations.<br>
 	  Solved two Questions on HackerRank.
+* Day-13: Finished Singly Linked List with Python. <br>
+Studied Seaborn Categorical Features.
 
