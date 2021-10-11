@@ -55,5 +55,11 @@ I will update the **Readme** on daily basis<br>
 * Day-12: Studied about Seaborn and practiced some real world operations.<br>
 	  Solved two Questions on HackerRank.
 * Day-13: Finished Singly Linked List with Python. <br>
-Studied Seaborn Categorical Features.
+	  Studied Seaborn Categorical Features.
+* Day-14: Developed a jewelry website for a freelance client.
+* Day-15: Finished Learning about Seaborn.<br>
+	  Started Learning about Matplotlib.<br>
+	  Solved two questions on HackerRank
+* Day-16: Finished my Python For Data Science IBM Course.<br>
+	  Completed the learning of Matplotlib.
 
