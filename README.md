@@ -62,4 +62,6 @@ I will update the **Readme** on daily basis<br>
 	  Solved two questions on HackerRank
 * Day-16: Finished my Python For Data Science IBM Course.<br>
 	  Completed the learning of Matplotlib.
+* Day-17: Solved some questions on Recursion.<br>
+	  Practiced some SQL operations.
 
