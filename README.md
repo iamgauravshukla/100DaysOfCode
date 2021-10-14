@@ -64,4 +64,5 @@ I will update the **Readme** on daily basis<br>
 	  Completed the learning of Matplotlib.
 * Day-17: Solved some questions on Recursion.<br>
 	  Practiced some SQL operations.
+* Day-18: Learned and practiced SQL Group By and Having.
 
