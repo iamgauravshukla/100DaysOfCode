@@ -60,9 +60,11 @@ I will update the **Readme** on daily basis<br>
 * Day-15: Finished Learning about Seaborn.<br>
 	  Started Learning about Matplotlib.<br>
 	  Solved two questions on HackerRank
-* Day-16: Finished my Python For Data Science IBM Course.<br>
+* Day-16: Finished Python For Data Science IBM Course.<br>
 	  Completed the learning of Matplotlib.
 * Day-17: Solved some questions on Recursion.<br>
 	  Practiced some SQL operations.
 * Day-18: Learned and practiced SQL Group By and Having.
+* Day-19: Studied Circular Linked List using python for DSA.<br>
+	  Started the second course of Data Science Learning from IBM "Data Visualization with Python".
 
