@@ -67,4 +67,6 @@ I will update the **Readme** on daily basis<br>
 * Day-18: Learned and practiced SQL Group By and Having.
 * Day-19: Studied Circular Linked List using python for DSA.<br>
 	  Started the second course of Data Science Learning from IBM "Data Visualization with Python".
+* Day-20: Continued working on Project-3 -> Netflix Clone using MERN Stack.<br>
+	  Finished one module of Data Visualization course on IBM Cognitive.
 
