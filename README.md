@@ -69,5 +69,6 @@ I will update the **Readme** on daily basis<br>
 	  Started the second course of Data Science Learning from IBM "Data Visualization with Python".
 * Day-20: Continued working on Project-3 -> Netflix Clone using MERN Stack.<br>
 	  Finished one module of Data Visualization course on IBM Cognitive.
-* Day-21: Continued working on Project-3 -> Netflix Clone using MERN Stack.
+* Day-21: Continued working on Project-3 -> Netflix Clone using MERN Stack.<br>
+	  Also practiced exploratory data analysis.
 
