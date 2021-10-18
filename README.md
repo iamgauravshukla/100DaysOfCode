@@ -71,4 +71,5 @@ I will update the **Readme** on daily basis<br>
 	  Finished one module of Data Visualization course on IBM Cognitive.
 * Day-21: Continued working on Project-3 -> Netflix Clone using MERN Stack.<br>
 	  Also practiced exploratory data analysis.
+* Day-22: Finished two modules of Data Visualization with Python course.
 
