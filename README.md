@@ -73,5 +73,6 @@ I will update the **Readme** on daily basis<br>
 	  Also practiced exploratory data analysis.
 * Day-22: Finished two modules of Data Visualization with Python course.
 * Day-23: Participated in HacktoberFest and contributed in a project.
-* Day-24 to Day-26:  Participated in HacktoberFest and contributed in open source projects opened 7 Pulled Request.(All merged succesfully)
-* Day-27: It's Show time IND vs PAK T20 WorldCup match.
+* Day-24 to Day-27:  Participated in HacktoberFest and contributed in open source projects opened 7 Pulled Request.(All merged succesfully)
+* Day-28: It's Show time IND vs PAK T20 WorldCup match.
+* Day-29: Finished Circular Linked List using Python.
