@@ -76,3 +76,10 @@ I will update the **Readme** on daily basis<br>
 * Day-24 to Day-27:  Participated in HacktoberFest and contributed in open source projects opened 7 Pulled Request.(All merged succesfully)
 * Day-28: It's Show time IND vs PAK T20 WorldCup match.
 * Day-29: Finished Circular Linked List using Python.
+* Day-30: Solved 5 Python problems on HackerRank.
+* Day-31: Solved 4 DSA Questions on HackerRank and completed one module of Data Visualization course by IBM.
+* Day-32: Finished Learning about SQL Joins and solved 3 questions on HackerRank.
+* Day-33: Worked on Project-3 -> Netflix using MERN.
+* Day-34: Completed learning about SQL SubQueries and Triggers.
+* Day-35: Solved few DSA questions for my own youtube channel. (Thinking to start one)
+
