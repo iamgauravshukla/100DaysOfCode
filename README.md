@@ -82,4 +82,4 @@ I will update the **Readme** on daily basis<br>
 * Day-33: Worked on Project-3 -> Netflix using MERN.
 * Day-34: Completed learning about SQL SubQueries and Triggers.
 * Day-35: Solved few DSA questions for my own youtube channel. (Thinking to start one)
-
+* Day-36: Worked on Project-3 -> NetFlix.
