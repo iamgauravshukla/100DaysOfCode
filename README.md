@@ -83,3 +83,17 @@ I will update the **Readme** on daily basis<br>
 * Day-34: Completed learning about SQL SubQueries and Triggers.
 * Day-35: Solved few DSA questions for my own youtube channel. (Thinking to start one)
 * Day-36: Worked on Project-3 -> NetFlix.
+* Day-37: Revised all the topics that I have learnt this far and solved 4 SQL questions.
+* Day-38: Learned and Practiced some Advanced Visualization Tool. i.e Waffle Charts,  Word Clouds,Seaborn and Regression Plots 
+Learning Source (IBM Data Visualization Course)
+* Day-39: Started learning Machine Learning. Done 50% of Introduction to Machine Learning Problem Framing (By Google)
+* Day-40: Completed Introduction to Machine Learning Problem Framing Also Learned some Algorithms.
+* Day-41:  Started Learning Machine Learning through Book Hands on ML.
+* Day-42: Continued Learning ML through book.
+
+<center> <h1 style="color:red;">Break due to semester exams😓 </h1></center>
+
+### Restarted #100DaysOfCode once again.
+
+* Day-1: 
+ 

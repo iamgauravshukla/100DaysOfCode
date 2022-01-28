@@ -1,6 +1,5 @@
 from array import *
 
-
 def access(array, index):
     if index > (len(array) - 1):
         print('Index is not present in array')
