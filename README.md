@@ -98,4 +98,5 @@ Learning Source (IBM Data Visualization Course)
 * Day-1: Revised the concepts of Linked List. And
 finished two modules of the DSA course offered by InfyTQ
 * Day-2: Revised some basic concepts of React.js and solves Assignment-1 of DSA in infytq.
- 
+* Day-3: Resume my project-3 Netflix project Worked on some of its components today.
+* Day-4: Continued working on front-end of Netflix project.
