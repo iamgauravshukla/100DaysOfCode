@@ -95,5 +95,7 @@ Learning Source (IBM Data Visualization Course)
 
 ### Restarted #100DaysOfCode once again.
 
-* Day-1: 
+* Day-1: Revised the concepts of Linked List. And
+finished two modules of the DSA course offered by InfyTQ
+
  
