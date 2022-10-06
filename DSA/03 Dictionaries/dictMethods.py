@@ -1,4 +1,7 @@
-animals = {'wild': 'Lion', 'pet': 'Dog', 'birds': 'sparrow', 'carnivorous': 'Tiger'}
+animals = {'wild': 'Lion',
+           'pet': 'Dog',
+           'birds': 'sparrow',
+           'carnivorous': 'Tiger'}
 
 copiedDict = animals.copy()  # creates copy of dictionary
 print(copiedDict)

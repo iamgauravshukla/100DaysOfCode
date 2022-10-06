@@ -1,4 +1,7 @@
-customer = {'name': 'Prate', 'mobile': 6786544333, 'address': 'G-509', "date": '27-10-21'}
+customer = {'name': 'Prate',
+            'mobile': 6786544333,
+            'address': 'G-509',
+            "date": '27-10-21'}
 
 customer.pop('date') # Deletes provided key value pair and returns value
 print(customer)
